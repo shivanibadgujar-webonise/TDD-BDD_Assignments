@@ -1,5 +1,5 @@
 //TDD-BDD Assignment   
-//Interest calc
+//Interest calculator
 
 import java.util.*;
 
